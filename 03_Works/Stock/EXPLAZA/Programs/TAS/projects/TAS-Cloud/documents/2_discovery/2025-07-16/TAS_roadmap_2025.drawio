@@ -1,0 +1,85 @@
+<mxfile host="65bd71144e">
+    <diagram name="TAS_Roadmap_2025" id="roadmap">
+        <mxGraphModel dx="1243" dy="1423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="800" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="title" value="TAS AI支援ソリューション ロードマップ (2025年7月〜12月)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1;" parent="1" vertex="1">
+                    <mxGeometry x="300" y="20" width="600" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="timeline_bg" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8f9fa;strokeColor=#dee2e6;" parent="1" vertex="1">
+                    <mxGeometry x="250" y="80" width="900" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="jul" value="7月" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1;" parent="1" vertex="1">
+                    <mxGeometry x="250" y="85" width="150" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="aug" value="8月" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1;" parent="1" vertex="1">
+                    <mxGeometry x="400" y="85" width="150" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="sep" value="9月" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1;" parent="1" vertex="1">
+                    <mxGeometry x="550" y="85" width="150" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="oct" value="10月" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1;" parent="1" vertex="1">
+                    <mxGeometry x="700" y="85" width="150" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="nov" value="11月" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1;" parent="1" vertex="1">
+                    <mxGeometry x="850" y="85" width="150" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="dec" value="12月" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1;" parent="1" vertex="1">
+                    <mxGeometry x="1000" y="85" width="150" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="theme1_label" value="テーマ1: 外部営業検証&lt;br&gt;(担当: 松丸、宮田、TAS)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3f2fd;strokeColor=#1976d2;fontSize=12;fontStyle=1;align=left;verticalAlign=top;" parent="1" vertex="1">
+                    <mxGeometry x="50" y="150" width="180" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="theme1_jul" value="仮説マップ作成・精度向上&lt;br&gt;インタビュー計画確定" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bbdefb;strokeColor=#1976d2;fontSize=10;" parent="1" vertex="1">
+                    <mxGeometry x="250" y="150" width="150" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="theme1_aug" value="インタビュー実施・業務フロー調査&lt;br&gt;仮説アップデート" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bbdefb;strokeColor=#1976d2;fontSize=10;" parent="1" vertex="1">
+                    <mxGeometry x="400" y="150" width="150" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="theme1_sep" value="検証レポート共有&lt;br&gt;ジャーニー/フロー可視化" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bbdefb;strokeColor=#1976d2;fontSize=10;" parent="1" vertex="1">
+                    <mxGeometry x="550" y="150" width="150" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="theme1_oct" value="プロトタイプ活用&lt;br&gt;ソリューション検証" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bbdefb;strokeColor=#1976d2;fontSize=10;" parent="1" vertex="1">
+                    <mxGeometry x="700" y="150" width="450" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="theme2_label" value="テーマ2: MVP2品質向上&lt;br&gt;(担当: 宮田）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8f5e8;strokeColor=#388e3c;fontSize=12;fontStyle=1;align=left;verticalAlign=top;" parent="1" vertex="1">
+                    <mxGeometry x="50" y="250" width="180" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="theme2_jul" value="MVP2課題洗い出し&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;改善実行&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#c8e6c9;strokeColor=#388e3c;fontSize=10;" parent="1" vertex="1">
+                    <mxGeometry x="250" y="250" width="150" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="theme2_aug" value="改善実行" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#c8e6c9;strokeColor=#388e3c;fontSize=10;" parent="1" vertex="1">
+                    <mxGeometry x="400" y="250" width="150" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="theme3_label" value="テーマ3: クラウド版構築&lt;br&gt;(担当: 宮田、平澤、+1名)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffebee;strokeColor=#d32f2f;fontSize=12;fontStyle=1;align=left;verticalAlign=top;" parent="1" vertex="1">
+                    <mxGeometry x="50" y="350" width="180" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="theme3_jul" value="アーキテクチャ方針決定&lt;br&gt;技術検証開始" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcdd2;strokeColor=#d32f2f;fontSize=10;" parent="1" vertex="1">
+                    <mxGeometry x="250" y="350" width="150" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="theme3_aug" value="MVP3開発" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcdd2;strokeColor=#d32f2f;fontSize=10;" parent="1" vertex="1">
+                    <mxGeometry x="400" y="350" width="150" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="theme3_sep" value="MVP3リリース候補" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcdd2;strokeColor=#d32f2f;fontSize=10;" parent="1" vertex="1">
+                    <mxGeometry x="550" y="350" width="150" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="theme3_oct" value="MVP4設計着手&lt;br&gt;開発開始" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcdd2;strokeColor=#d32f2f;fontSize=10;" parent="1" vertex="1">
+                    <mxGeometry x="700" y="350" width="150" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="theme3_nov" value="MVP4開発" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcdd2;strokeColor=#d32f2f;fontSize=10;" parent="1" vertex="1">
+                    <mxGeometry x="850" y="350" width="150" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="theme3_dec" value="MVP4リリース&lt;br&gt;拡張計画策定" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcdd2;strokeColor=#d32f2f;fontSize=10;" parent="1" vertex="1">
+                    <mxGeometry x="1000" y="350" width="150" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="milestone2" value="★ MVP4リリース" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff3e0;strokeColor=#f57c00;fontSize=10;fontStyle=1;" parent="1" vertex="1">
+                    <mxGeometry x="1070" y="100" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="★ MVP3リリース" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff3e0;strokeColor=#f57c00;fontSize=10;fontStyle=1;" vertex="1" parent="1">
+                    <mxGeometry x="630" y="100" width="100" height="40" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
